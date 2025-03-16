@@ -19,13 +19,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/image.png",
         "backgroundColor": "#FAFAFA"
-      }
+      },
+      "permissions": []
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "react-native-video"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d997af08-07ed-49fc-9947-7af2ca8cd9ec"
+      }
+    },
+    "owner": "bhaveshshankar"
   }
 }
