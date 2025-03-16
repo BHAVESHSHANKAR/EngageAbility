@@ -33,6 +33,11 @@
         "projectId": "d997af08-07ed-49fc-9947-7af2ca8cd9ec"
       }
     },
-    "owner": "bhaveshshankar"
+    "owner": "bhaveshshankar",
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    }
   }
 }
