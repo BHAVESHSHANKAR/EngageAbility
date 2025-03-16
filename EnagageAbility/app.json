@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/image.png",
         "backgroundColor": "#FAFAFA"
       },
-      "permissions": []
+      "permissions": [],
+      "package": "com.bhaveshshankar.EngageAbility"
     },
     "web": {
       "favicon": "./assets/favicon.png"
